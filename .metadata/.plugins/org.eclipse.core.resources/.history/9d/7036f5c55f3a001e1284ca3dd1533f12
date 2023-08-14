@@ -1,0 +1,8 @@
+package com.in28minutes.learnspringframework;
+
+public class Snippet {
+	public static void main(String[] args) {
+		AppGamingBasicJava
+	}
+}
+
